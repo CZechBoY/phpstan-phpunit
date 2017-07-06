@@ -1,0 +1,5 @@
+services:
+	-
+		class: PHPStan\Type\PHPUnit\MockDynamicReturnTypeExtension
+		tags:
+			- phpstan.broker.dynamicMethodReturnTypeExtension
