@@ -1,1 +1,2 @@
-PHPUnit mocking reflection for PHPStan
+# Deprecated!
+# Use official phpstan-phpunit extension: https://github.com/phpstan/phpstan-phpunit 
